@@ -51,5 +51,5 @@ npm run start
 5. After the server is running, the Swagger documentation can be accessed at:
 
 ```bash
-http://localhost:3000/api-docs
+http://localhost:3000/api
 ```
